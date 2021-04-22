@@ -1,0 +1,48 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:black;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrZOoiIhVATJYO7AbE8Y50RpLUNTUuzF4VuRO63jGxw1t4AcPeBXqdfF760Iko75CeQ7U&usqp=CAU');
+    background-position: top right;
+    background-repeat:no-repeat;
+    text-align: center;
+}
+a{
+    color:whitesmoke;
+    font-weight: bolder;
+}
+h1{
+    color:whitesmoke;
+    outline-color: black;
+    font-style: normal;
+}
+h3{
+    color:whitesmoke;
+}
+h4{
+    color:whitesmoke;
+}
+p{
+    color:whitesmoke;
+}
+img{
+    width:400px;
+    border: 1px solid black;
+    
+}
+#thirdDiv{
+    height: 600px;
+    width:500px;
+    background-color: yellow;
+    padding:50px;
+    border: 1px solid transparent;
+    margin-left: auto;
+    margin-right: auto;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+
+
+
